@@ -1,4 +1,6 @@
 #include "main.h"
+#include <unistd.h>
+
 /**
  * *reset_to_98 - use a pointer to change integer value
  * *@n: parameter
