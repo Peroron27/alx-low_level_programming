@@ -1,15 +1,6 @@
-#ifndef MAIN.H
-#define MAIN.H
+#ifndef MAIN_H
+#define MAIN_H
 
-/**
- * file: main.h
- * authur: peroron27
- * desc: Header file containing prototypes for all functions
- * 	use in the 0x06-pointers_arrays_strings directory
- */ 
- 
-
-int _putchar(char c)
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
 char *_strncpy(char *dest, char *src, int n);
