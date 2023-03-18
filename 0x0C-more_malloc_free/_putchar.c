@@ -8,7 +8,7 @@
  * on error, -1 is returned, and errno is et appropriately
  */
 
-int _putchar(char c)
+int _putchar(char c, *s)
 
 {
         return (write(1, &c, 1));
