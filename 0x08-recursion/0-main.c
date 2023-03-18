@@ -8,7 +8,7 @@
 int main(void)
 
 {
-	puts_recursion("Puts with recursion");
+	_puts_recursion("Puts with recursion");
 	return (0);
 
 }
